@@ -10,3 +10,6 @@ git clone this repo and open into its directory
 run 'sudo chmod +x installer.sh' to make the file executable.
 
 Finally, run './installer.sh' Which will place all configuration files in their places
+
+
+DO NOT RUN AS ROOT  this will place all config files in the root user's home folder.
