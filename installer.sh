@@ -1,5 +1,7 @@
 mkdir .config
 mkdir .config/i3
+mkdir .config/kitty
+cp kitty.conf .config/kitty/
 cp i3Conf .config/i3/config
 mkdir .conf/polybar
 cp polyConf .config/polybar/config.ini
