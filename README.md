@@ -1,3 +1,3 @@
 # Fedora-Pie
 
-bare-bones installer script to make a clean and usable desktop from fedora server.
+Bare-Bones installer script to make a clean and functionable desktop from fedora server.
